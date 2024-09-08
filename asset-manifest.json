@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/codesanjeet/Sarkari-Lock/static/css/main.b290a6a9.css",
-    "main.js": "/codesanjeet/Sarkari-Lock/static/js/main.8b8a4a43.js",
+    "main.css": "/codesanjeet/Sarkari-Lock/static/css/main.b77017db.css",
+    "main.js": "/codesanjeet/Sarkari-Lock/static/js/main.dd18e7c4.js",
     "static/js/453.040f7ebe.chunk.js": "/codesanjeet/Sarkari-Lock/static/js/453.040f7ebe.chunk.js",
     "static/media/logo.jpg": "/codesanjeet/Sarkari-Lock/static/media/logo.f347cc7c97c06092b786.jpg",
     "index.html": "/codesanjeet/Sarkari-Lock/index.html",
-    "main.b290a6a9.css.map": "/codesanjeet/Sarkari-Lock/static/css/main.b290a6a9.css.map",
-    "main.8b8a4a43.js.map": "/codesanjeet/Sarkari-Lock/static/js/main.8b8a4a43.js.map",
+    "main.b77017db.css.map": "/codesanjeet/Sarkari-Lock/static/css/main.b77017db.css.map",
+    "main.dd18e7c4.js.map": "/codesanjeet/Sarkari-Lock/static/js/main.dd18e7c4.js.map",
     "453.040f7ebe.chunk.js.map": "/codesanjeet/Sarkari-Lock/static/js/453.040f7ebe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b290a6a9.css",
-    "static/js/main.8b8a4a43.js"
+    "static/css/main.b77017db.css",
+    "static/js/main.dd18e7c4.js"
   ]
 }
