@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Sarkari-Lock/static/css/main.9cd3d870.css",
-    "main.js": "/Sarkari-Lock/static/js/main.2d3ed26c.js",
+    "main.js": "/Sarkari-Lock/static/js/main.09fe9c1c.js",
     "static/js/453.040f7ebe.chunk.js": "/Sarkari-Lock/static/js/453.040f7ebe.chunk.js",
     "static/media/logo.jpg": "/Sarkari-Lock/static/media/logo.f347cc7c97c06092b786.jpg",
     "index.html": "/Sarkari-Lock/index.html",
     "main.9cd3d870.css.map": "/Sarkari-Lock/static/css/main.9cd3d870.css.map",
-    "main.2d3ed26c.js.map": "/Sarkari-Lock/static/js/main.2d3ed26c.js.map",
+    "main.09fe9c1c.js.map": "/Sarkari-Lock/static/js/main.09fe9c1c.js.map",
     "453.040f7ebe.chunk.js.map": "/Sarkari-Lock/static/js/453.040f7ebe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cd3d870.css",
-    "static/js/main.2d3ed26c.js"
+    "static/js/main.09fe9c1c.js"
   ]
 }
