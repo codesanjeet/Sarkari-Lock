@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.01ebd15e.css",
-    "main.js": "./static/js/main.35e6ef8c.js",
-    "static/js/453.040f7ebe.chunk.js": "./static/js/453.040f7ebe.chunk.js",
-    "static/media/logo.jpg": "./static/media/logo.f347cc7c97c06092b786.jpg",
-    "index.html": "./index.html",
-    "main.01ebd15e.css.map": "./static/css/main.01ebd15e.css.map",
-    "main.35e6ef8c.js.map": "./static/js/main.35e6ef8c.js.map",
-    "453.040f7ebe.chunk.js.map": "./static/js/453.040f7ebe.chunk.js.map"
+    "main.css": "/sarkarilock/static/css/main.01ebd15e.css",
+    "main.js": "/sarkarilock/static/js/main.6beb6994.js",
+    "static/js/453.040f7ebe.chunk.js": "/sarkarilock/static/js/453.040f7ebe.chunk.js",
+    "static/media/logo.jpg": "/sarkarilock/static/media/logo.f347cc7c97c06092b786.jpg",
+    "index.html": "/sarkarilock/index.html",
+    "main.01ebd15e.css.map": "/sarkarilock/static/css/main.01ebd15e.css.map",
+    "main.6beb6994.js.map": "/sarkarilock/static/js/main.6beb6994.js.map",
+    "453.040f7ebe.chunk.js.map": "/sarkarilock/static/js/453.040f7ebe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01ebd15e.css",
-    "static/js/main.35e6ef8c.js"
+    "static/js/main.6beb6994.js"
   ]
 }
